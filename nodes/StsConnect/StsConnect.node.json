@@ -1,0 +1,22 @@
+{
+	"node": "n8n-nodes-stsconnect.stsConnect",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"displayName": "STS Connect",
+	"categories": ["Communication"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"label": "STS Connect Help Center",
+				"url": "https://stsconnect.chat/help"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"label": "STS Connect Help Center",
+				"url": "https://stsconnect.chat/help"
+			}
+		]
+	},
+	"alias": ["STS Connect Inbox", "messaging", "WhatsApp"]
+}
